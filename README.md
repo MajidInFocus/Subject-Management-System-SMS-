@@ -62,7 +62,7 @@ The code is organized into well-defined classes, each with clear responsibilitie
 - **AdminDashboard Class:** Manages students, teachers, subjects, and courses through a user-friendly interface.
 
 ### Sample Code Snippets
-The source codes for SMS are available in this repository.
+The source codes for SMS are available in this repository. 
 
 ## 5. Testing 🧪
 
@@ -91,3 +91,7 @@ This project has been a significant learning experience. I'm proud of the system
 Plans include incorporating advanced features such as:
 - **Real-Time Data Updates**
 - **Integration with Other Educational Platforms**
+
+---
+
+Feel free to explore the code, experiment with it, and suggest any improvements! Since this is my first project, I’m open to feedback and eager to learn.
